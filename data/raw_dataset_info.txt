@@ -1,0 +1,8 @@
+Dataset: Breast Cancer Wisconsin (Diagnostic), supplied by scikit-learn.
+Loader: sklearn.datasets.load_breast_cancer(as_frame=True)
+Task: Binary classification
+Rows: 569
+Input features: 30 numeric measurements
+Target: target (0 = malignant, 1 = benign)
+External CSV download required: No
+Educational note: This dataset is for demonstrating machine-learning workflows, not medical diagnosis.
